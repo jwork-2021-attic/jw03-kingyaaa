@@ -79,4 +79,4 @@
 
    排序结果正确
 
-   ![image-20211005105913974](C:\Users\10513\AppData\Roaming\Typora\typora-user-images\image-20211005105913974.png)
+   ![](https://github.com/jwork-2021/jw03-kingyaaa/blob/main/pic/image-20211005105913974.png)
