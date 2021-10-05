@@ -49,7 +49,10 @@
 
 ### **图片的url**:
 
-[使用了本地文件的绝对路径]
+**SelectSorter**:https://github.com/jwork-2021/jw03-kingyaaa/blob/main/example/resources/select.jpeg
+**QuickSorter**:https://github.com/jwork-2021/jw03-kingyaaa/blob/main/example/resources/quick.jpeg
+
+[实验时使用了本地文件的绝对路径]
 
 **SelectSorter**: file:///home/njucs/Java/jw03-kingyaaa/example.BubbleSorter.png
 
