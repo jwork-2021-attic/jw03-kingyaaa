@@ -73,7 +73,7 @@
 
    排序结果正确
 
-   ![image-20211005105400778](C:\Users\10513\AppData\Roaming\Typora\typora-user-images\image-20211005105400778.png)
+   ![](https://github.com/jwork-2021/jw03-kingyaaa/blob/main/pic/image-20211005105400778.png)
 
 2. 图片url为https://github.com/jwork-2021/jw03-BanpinLi/blob/main/example.SelectSort.png
 
